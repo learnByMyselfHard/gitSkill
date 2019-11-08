@@ -1,5 +1,9 @@
 <<dsdsddsds<<<< Updated upstream
-dev
+<<<<<<< Updated upstream
+devsdjlkadjajdlaj
+=======
+devshdkjdahdkajshdaskjhd
+>>>>>>> Stashed changes
 =======
 master
 >>>>>>> Stashed changes
